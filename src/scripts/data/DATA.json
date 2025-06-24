@@ -1,0 +1,56 @@
+    {
+    "books": [
+      {
+        "id": "ljx8i0qu2uckcowlqdz",
+        "name": "MARKETING KAMI",
+        "description": "Hubungi",
+        "pictureId": "01.jpg",
+        "bisnisinti": "Production Macinning + Fabrication",
+        
+        "soal": "Bagaiman cara memesan ?",
+        "jawab": "Hubungi melalui.... atau klik tombol hijau WA di layar  " 
+      },
+      {
+        "id": "fe8bbxoazddkcowlqdz",
+        "name": "MANAJEMEN KAMI",
+        "description": "berikut susunan direksi dan manajemen",
+        "pictureId": "02.jpg",
+        "bisnisinti": "Production Macinning + Fabrication",
+        
+        "soal": "Bagaiman cara memesan ?",
+        "jawab": "Hubungi melalui.... atau klik tombol hijau WA di layar" 
+      },
+      {
+        "id": "ik1zljmlf68kcowlqdz",
+        "name": "ALAMAT WORKSHOP ",
+        "description": "Saat ini workshop kami berkedudukan di...",
+        "pictureId": "03.jpg",
+        "bisnisinti": "Production Macinning + Fabrication",
+        
+        "soal": "Bagaiman cara memesan ?",
+        "jawab": "Hubungi melalui.... atau klik tombol hijau WA di layar" 
+      },
+      {
+        "id": "9jpuzkm6n6jkcowlqdz",
+        "name": "ALAMAT PERSEROAN",
+        "description": "Saat ini PT PRIMA PUTRA PERSADA TEKNIK berkedudukan di...",
+
+        "pictureId": "04.jpg",
+        "bisnisinti": "Production Macinning + Fabrication",
+       
+        "soal": "Bagaiman cara memesan ?",
+        "jawab": "Hubungi melalui.... atau klik tombol hijau WA di layar"  
+      },
+      {
+        "id": "cpl5jpsnuqkkcowlqdz",
+         "name": "PARA AHLI KAMI",
+         "description": "Berikut para ahli kami...",
+         "pictureId": "05.jpg",
+         "bisnisinti": "Production Macinning + Fabrication",
+         
+         "soal": "Bagaiman cara memesan ?",
+         "jawab": "Hubungi melalui.... atau klik tombol hijau WA di layar" 
+      }
+    ]
+  }
+
